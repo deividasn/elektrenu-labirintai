@@ -1,0 +1,6 @@
+Elektrėnų labirintai 0.4.0 – naudoti ištekliai
+- Labirinto generatorius: RodZill4/godot-procedural-maze (Godot Asset Library 306), MIT, © 2018 Rodz Labs
+- Personažas Rosalie Blackwood (Godot Asset Library 5473, Bonbon), MIT
+- Jaukumo efektų idėjos (dalelės aplink kamerą, kaustikos, žolės blizgesiai, peršvietimas, vinjetė/S kreivė/triukšmas):
+  Abyssal Garden, https://github.com/Noniv/abyssal-garden, MIT, © 2026 Maksymilian Dendura
+- Žolė, paparčiai, gyvūnėliai ir dekoracijos – procedūriniai (sukurti šiame projekte)
